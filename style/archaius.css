@@ -855,4 +855,144 @@ button,
 
 
 
+input[type="submit"],
+button{
+    color: #272526;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.15);
+    background-color: #aeacad;
+    background-image: -moz-linear-gradient(top, #edecea, #e8e7e5);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#edecea), to(#e8e7e5));
+    background-image: -webkit-linear-gradient(top, #edecea, #e8e7e5);
+    background-image: -o-linear-gradient(top, #edecea, #e8e7e5);
+    background-image: linear-gradient(to bottom, #edecea, #e8e7e5);
+    background-repeat: repeat;
+    border-color: #afadae #afadae #000000;    
+    padding: 2px;
+}
 
+a:link,
+a:visited {
+    color: #033f73;
+    
+}
+
+#page-header {
+    background: #033f73;    
+}
+
+.navbar a {
+   color: #222;
+   font-weight: 600;
+}
+
+div#region-post div.region-content div.current ,
+div#region-pre div.region-content div.current{
+    background-color: #033f73;
+}
+
+.loginbox h2 {color:#033f73;}
+
+.loginbox .form-label {color: #033f73;}
+
+.header-tab h2 {color:white;}
+
+#page-header .adminsearchform {
+        display:none;
+}
+
+#page-content h3.page-subtitle {
+    color: #033f73;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.arrow {
+    color: #033f73;
+}
+
+.block .minicalendar td.weekend {
+    color: #033f73;
+}
+/*
+.block .content a {
+    color: #033f73;
+}
+*/
+
+.langmenu {display:none;}
+
+div.logininfo {
+    float: right; */
+    padding-right: 22px;
+    padding-top: 14px;
+}
+
+div.logininfo a {
+    color: #222;
+}
+
+#region-main div.header-tab {
+    background: none repeat scroll 0 0 #033f73;
+}
+
+.sectionname {
+    color:#033f73;
+    font-weight: bold;
+}
+
+.dir-ltr, .mdl-left, .dir-rtl .mdl-right {    
+    background-color: #FFFFFF;
+   background: -moz-linear-gradient(bottom, #004c86, #3590c5, #014d87);/* F 3.6+ */
+   background: -ms-linear-gradient(bottom, #004c86, #3590c5, #014d87);/* IE 10+ */
+   background: -webkit-linear-gradient(bottom, #004c86, #3590c5, #014d87);/* FF 3.6+ */
+   background: -o-linear-gradient(bottom, #004c86, #3590c5, #014d87);/* Safari 5.1+, Chrome 10+ */
+   background: linear-gradient(bottom, #004c86, #3590c5, #014d87);/* ESTILO ESTANDAR */           
+}
+html,
+body {
+    background: #004c86;
+}
+
+#page-footer {
+
+    background: #2E3332;
+    background: -moz-linear-gradient(bottom, #3f3f3f, #484848, #6e6e6e);/* F 3.6+ */
+   background: -ms-linear-gradient(bottom, #3f3f3f, #484848, #6e6e6e);/* IE 10+ */
+   background: -webkit-linear-gradient(bottom, #3f3f3f, #484848, #6e6e6e);/* FF 3.6+ */
+   background: -o-linear-gradient(bottom, #3f3f3f, #484848, #6e6e6e);/* Safari 5.1+, Chrome 10+ */
+   background: linear-gradient(bottom, #3f3f3f, #484848, #6e6e6e);/* ESTILO ESTANDAR */           
+}
+
+#page-header {
+    background: #fff;
+    background: -moz-linear-gradient(bottom, #d4d2d5, #f9f9f9, #fefefe);/* F 3.6+ */
+   background: -ms-linear-gradient(bottom, #d4d2d5, #f9f9f9, #fefefe);/* IE 10+ */
+   background: -webkit-linear-gradient(bottom, #d4d2d5, #f9f9f9, #fefefe);/* FF 3.6+ */
+   background: -o-linear-gradient(bottom, #d4d2d5, #f9f9f9, #fefefe);/* Safari 5.1+, Chrome 10+ */
+   background: linear-gradient(bottom, #d4d2d5, #f9f9f9, #fefefe);/* ESTILO ESTANDAR */           
+}
+
+.logo_infopuc_footer {    
+    float: left;
+    padding-left: 100px;    
+    margin: 5px 5px 0px 0px;
+}
+
+.web {
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+.info_footer {
+    font-size: 9pt;
+    font-family: sans-serif;
+    text-align: right;
+    float: right;
+    padding-right: 100px;
+    padding-top: 8px;
+}
+
+.logo_facebook {
+    vertical-align: middle;
+}
